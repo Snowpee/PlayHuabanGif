@@ -4,4 +4,5 @@
 
 
 拖动这个按钮到你的书签栏：
-[▶ HB GIF]:<a href="javascript: (function () { var jsCode = document.createElement('script'); jsCode.setAttribute('src', 'http://hbdesign-demo.b0.upaiyun.com/playHbGif-v0.4/playHbGif.js'); document.body.appendChild(jsCode); }()); " onclick="return false;">
+
+`a href="javascript: (function () { var jsCode = document.createElement('script'); jsCode.setAttribute('src', 'http://hbdesign-demo.b0.upaiyun.com/playHbGif-v0.4/playHbGif.js'); document.body.appendChild(jsCode); }()); " onclick="return false;">`
